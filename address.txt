@@ -1,2 +1,8 @@
 bangalore
+<<<<<<< Updated upstream
 8790910525
+=======
+8790910528
+hi welcome
+85858
+>>>>>>> Stashed changes
